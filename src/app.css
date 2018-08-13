@@ -2,6 +2,11 @@
   font-family: "Raleway", sans-serif;
 }
 
+a:hover {
+  color: #47ffbb;
+  text-decoration: none;
+}
+
 /*PHONES SIZE*/
 @media only screen and (min-width: 200px) and (max-width: 699px) {
   /*HEADER CONTROLS*/
