@@ -4,7 +4,12 @@ const Portfolio = () => (
   <div className="container-fluid">
     <div className="row jumboRow">
       <div className="opening">
-        <h1>Portfolio</h1>
+        <div className="projects">
+          <h3 className="projecth3">Major Projects</h3>
+          <div className="port1">
+            <h1>Project</h1>
+          </div>
+        </div>
       </div>
     </div>
   </div>
