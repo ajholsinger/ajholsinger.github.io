@@ -4,6 +4,7 @@ import Header from "../src/components/header";
 import Opening from "../src/components/pages/opening";
 import Portfolio from "../src/components/pages/portfolio";
 import About from "../src/components/pages/about";
+import Contact from "../src/components/pages/contact";
 
 const App = () => (
   <Router>
@@ -13,6 +14,7 @@ const App = () => (
         <Route exact path="/" component={Opening} />
         <Route exact path="/portfolio" component={Portfolio} />
         <Route exact path="/about" component={About} />
+        <Route exact paht="/contact" component={Contact} />
       </Switch>
     </div>
   </Router>
