@@ -20,12 +20,12 @@ const About = () => (
         </div>
         <div className="row">
           <p className="explain">
-            I took an early interest to web development at 15 years old. It felt
+            "I took an early interest to web development at 15 years old. It felt
             like I found something I could do as a career one day. At 19, almost
             5 years later, I attended The Coding Bootcamp at University of North
             Carolina in Charlotte, where I was able to drastically expand my
             knowledge and abilities. If you don't see me on the computer, expect
-            me to be around friends, golfing, or eating.
+            me to be around friends, golfing, or eating."
           </p>
           <div className="social">
             <a href="https://www.instagram.com/aj.holsinger" target="blank_">

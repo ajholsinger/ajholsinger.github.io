@@ -65,20 +65,20 @@ body {
     text-align: center;
     padding-top: 200px;
     font-size: 40px;
-    color: white;
+    color: #e1e1e1;
   }
 
   .p1A {
     text-align: center;
     font-size: 15px;
-    color: white;
+    color: #e1e1e1;
   }
 
   .click {
     margin-top: 300px;
     bottom: 10px;
     font-size: 20px;
-    color: white;
+    color: #e1e1e1;
     text-align: center;
   }
   /*------------------------*/
@@ -108,20 +108,21 @@ body {
 
   .about-p {
     margin: 5px 10px 0px 0px;
-    color: black;
+    color: grey;
     font-size: 13px;
   }
 
   .about-p2 {
     margin: 10px 10px 0px 0px;
-    color: black;
+    color: grey;
     font-size: 12px;
   }
 
   .explain {
-    margin: 290px 20px 5px 20px;
-    color: black;
+    margin: 270px 20px 5px 20px;
+    color: #e1e1e1;
     font-size: 20px;
+    text-align: center;
   }
 
   .social {
