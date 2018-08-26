@@ -1,5 +1,4 @@
 import React from "react";
-import "../../src/app.css";
 var logo = require("../../src/images/greyH.png");
 
 const Header = () => (
